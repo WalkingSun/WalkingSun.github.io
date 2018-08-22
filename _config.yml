@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://walkingsun.github.io
 date_format: "ordinal"
 title: WalkingSun
 subtitle: "打码改变人生"
