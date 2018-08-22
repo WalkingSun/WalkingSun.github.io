@@ -5,7 +5,7 @@ baseurl:
 url: https://walkingsun.github.io
 date_format: "ordinal"
 title: WalkingSun
-subtitle: "打码改变人生"
+subtitle: "能做的还有很多"
 description: "WalkingSun的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, WalkingSun
 timezone: Asia/Shanghai
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: WalkingSun
-organization: zkh360.com
-organization_url: http://www.zkh360.com
+organization: 美味
+organization_url: http://www.mwee.cn
 github_username: WalkingSun
 location: ShangHai, China
 email: 807493510@qq.com
@@ -42,13 +42,13 @@ navs:
     href: /wiki/
     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+#  -
+#    href: /links/
+#    label: 链接
 
-  -
-    href: /about/
-    label: 关于
+#  -
+#    href: /about/
+#    label: 关于
 
 # ---------------- #
 #       RSS        #
