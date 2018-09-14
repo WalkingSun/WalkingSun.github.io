@@ -1,5 +1,5 @@
 # 博客
-https://walkingsun.github.io/WindBlog/
+https://walkingsun.github.io/WindBlog
 
 # 记录
 记录下做的东西吧。
