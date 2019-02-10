@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "WindBlog"
+date:   2017-06-13 10:51:47 +0530
+categories: project
+img: image-1.png
+categories: [one, two]
+href: https://github.com/WalkingSun/WindBlog
+---
+
+[WindBlog](https://github.com/WalkingSun/WindBlog) 静态博客及博客同步服务
+

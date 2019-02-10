@@ -1,6 +1,8 @@
-# 记录
-记录下做的东西吧。
+Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
 
-[WindBlog](https://github.com/WalkingSun/WindBlog) 静态博客及博客同步服务
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready.
 
-[openyii](https://github.com/WalkingSun/openyii) 仿yii框架
+For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
