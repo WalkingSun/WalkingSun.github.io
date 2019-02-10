@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d665a7c7-1fe0-4dde-b764-02c7b69f29d3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/a.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/timg.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-13-openyii.markdown" afterPath="$PROJECT_DIR$/_posts/2016-06-13-openyii.markdown" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-28-windblog.markdown" afterPath="$PROJECT_DIR$/_posts/2018-10-28-windblog.markdown" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-10-28-windblog.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-10-28-windblog.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-28-windblog.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -65,8 +63,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="59" column="42" lean-forward="true" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+            <state relative-caret-position="257">
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -79,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="216">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -122,8 +120,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="53" />
+            <state relative-caret-position="324">
+              <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -135,8 +133,10 @@
     <findStrings>
       <find>about</find>
       <find>copyright</find>
-      <find>All rights reserved by</find>
       <find>quora</find>
+      <find>twitter</find>
+      <find>built-by</find>
+      <find>All rights reserved by</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,11 +147,12 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2016-06-13-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2016-06-13-openyii.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-10-28-windblog.markdown" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -256,7 +257,7 @@
       <updated>1535267522099</updated>
       <workItem from="1535267523312" duration="321000" />
       <workItem from="1535333881599" duration="94000" />
-      <workItem from="1549788604134" duration="4544000" />
+      <workItem from="1549788604134" duration="4894000" />
     </task>
     <task id="LOCAL-00001" summary="简介">
       <created>1535267748558</created>
@@ -300,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549794722989</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="简介">
+      <created>1549794924493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549794924493</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4959000" />
+    <option name="totallyTimeSpent" value="5309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -476,14 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -504,22 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="59" column="42" lean-forward="true" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -552,6 +536,30 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ layout: default
                 <div class="panel panel-default">
                   
                   {% if post.img %}
-                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  <a href="{{site.href}}"><img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}"></a>
                   {% else %}
                   <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
                   {% endif %}
